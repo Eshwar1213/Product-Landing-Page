@@ -17,10 +17,4 @@ Welcome to Eshwar's Product Landing Page project! This repository contains the c
 
 - **Responsive Layout:** The landing page is designed to provide an optimal viewing experience across various devices, ensuring seamless accessibility for users.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone [# Eshwar's Product Landing Page](https://github.com/Eshwar1213/Product-Landing-Page.git)https://github.com/Eshwar1213/Product-Landing-Page.git
 
