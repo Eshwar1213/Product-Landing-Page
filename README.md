@@ -3,7 +3,7 @@
 
 Welcome to Eshwar's Product Landing Page project! This repository contains the code and assets for a captivating web interface designed to showcase and promote a remarkable product or service. The landing page aims to engage potential customers, highlight key features, and drive conversions.
 
-![Product Landing Page Live Demo][Link]([https://github.com/Eshwar1213/Product-Landing-Page/assets/138883603/28c5f40b-0d7e-4e75-8d5a-4483e0515a03](https://eshwar1213.github.io/Product-Landing-Page/))
+![Product Landing Page Live Demo](https://eshwar1213.github.io/Product-Landing-Page/))
 
 ## Features
 
